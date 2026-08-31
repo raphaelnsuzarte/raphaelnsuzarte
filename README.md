@@ -1,5 +1,5 @@
 # 👋 Olá, sou Raphael
-**:mortar_board: Estudante de Desenvolvimento de Sistemas | Focado em Python e Java |
+**:mortar_board: Estudante de Desenvolvimento de Sistemas | Focado em Python |
 Preparando-se para o mercado de tecnologia**
 ---
 ## 🔍 Sobre mim
@@ -22,5 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 ## 📫 Como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:raphaelnsuzarte@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-nunes-suzarte)
 
 ---
